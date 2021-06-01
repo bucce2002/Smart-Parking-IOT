@@ -33,10 +33,38 @@ restaurantes en los años 50.
 
 Nuestro proyecto esta dividido en dos bloques para su funcionamiento, estos son:
 
-**bloque 1.**
+**Bloque 1.**
 
 Este sera el encargado de hacer funcionar tanto al servomotor como a los sensores de los puestos de estacionamiento
-este se veria asi:
+mediante los LDR, este se veria asi:
 
-![](IMG's/maqueta.jpg)
+![](IMG's/bloque1.jpg)
+
+**Bloque 2.**
+
+Este nos servira para hacer funcionar la corneta para la musica y la led que se apagara y encendera al ritmo de esta,
+viendose asi la estructura:
+
+![](IMG's/bloque2.jpg)
+
+***Elementos a utilizar***
+
+**Para el bloque 1 necesitaremos:**
+
+- 11 cables.
+- 4 resistencias de 10k.
+- 2 LED's.
+- 2 LDR's.
+- 1 servomotor
+- 1 Protoboard
+- 1 Arduino.
+
+**Para el bloque 2 necesitaremos:**
+
+- 1 Buzzer(Corneta).
+- 6 cables.
+- 1 LED
+- 1 Protoboard
+- 1 Arduino
+
 
