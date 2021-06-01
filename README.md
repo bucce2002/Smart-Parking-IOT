@@ -17,7 +17,8 @@ detectaran si esta o no ocupado el puesto, iluminando la verde en caso de estar 
 de este estar ocupado.
 
 **3)** Tendra una corneta que reproducira un par de canciones, la cual tendra una led neon darle ambientacion al restaurante,
-simulando las mismas usadas en esa epoca, esta se apagara y prendera al ritmo de la musica
+simulando las mismas usadas en esa epoca, esta se apagara y prendera al ritmo de la musica.
+
 
 ![](IMG's/cabros.jpg)
 
@@ -34,5 +35,8 @@ Nuestro proyecto esta dividido en dos bloques para su funcionamiento, estos son:
 
 **bloque 1.**
 
-Este sera el encargado
+Este sera el encargado de hacer funcionar tanto al servomotor como a los sensores de los puestos de estacionamiento
+este se veria asi:
+
+![](IMG's/maqueta.jpg)
 
