@@ -1,4 +1,11 @@
 # Smart-Parking-IOT
+***Autores:***
+
+**Jesus Bucce.**
+
+**Sara Fernandez.**
+
+**Samuel Santos.**
 
 ***¿Que haremos?***
 
