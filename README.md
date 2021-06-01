@@ -68,3 +68,6 @@ viendose asi la estructura:
 - 1 Arduino
 
 ***Resultado final de la estrutura.***
+
+
+![](IMG's/proyectofinal.jpg)
