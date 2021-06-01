@@ -67,4 +67,4 @@ viendose asi la estructura:
 - 1 Protoboard
 - 1 Arduino
 
-
+***Resultado final de la estrutura.***
